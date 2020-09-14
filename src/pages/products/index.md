@@ -21,13 +21,14 @@ intro:
         financiar-contabilă și achiziția de bunuri, analiza cash-flow-ului și
         întocmirea bugetului de venituri și cheltuieli.
     - image: /img/light-bulb.png
-      text: Te ajutăm să vezi din timp riscurile la care este supusă afacerea ta, în
+      text:
+        Te ajutăm să vezi din timp riscurile la care este supusă afacerea ta, în
         urma analizei riguroase pe care o efectuăm asupra informațiilor
         contabile.
     - image: /img/time-is-money.png
       text: >
         Contabilitatea, auditul, resursele umane, consultanța și înființarea de
-        firme sunt elementele care constituie serviciile corporate AxACont. 
+        firme sunt elementele care constituie serviciile corporate AxACont.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -46,15 +47,24 @@ main:
     alt: Consultanță
     image: /img/drew-beamer-se7vvkzyxti-unsplash.jpg
   image3:
-    alt: Resurse umane
-    image: /img/scott-graham-5fnmwej4taa-unsplash.jpg
-testimonials: []
-full_image: /img/carlos-muza-hpjsku2uysu-unsplash.jpg
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
+testimonials:
+  - author: Elisabeth Kaurismäki
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+      the same thing I’ve been drinking every morning.
+  - author: Philipp Trommler
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
+full_image: /img/products-full-width.jpg
 pricing:
-  heading: "Pachete de servicii "
-  description: Pentru a ușura căutarea clienților în baza de servicii pe care le
-    oferim, am pregătit 3 pachete de servicii în funcție de proiectul pe care
-    vi-l propuneți să îl îndepliniți.
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
   plans:
     - description: Perfect dacă ești la începutul drumului tău de antreprenor.
       items:
