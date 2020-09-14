@@ -1,34 +1,60 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: Internaționalizarea afacerilor - mutarea atenției spre piețele externe
+date: 2020-09-14T19:00:27.389Z
+description: Într-o perioadă în care mondializarea ia avânt, devine din ce în ce
+  mai naturală și benefică extinderea afacerilor pe piețele externe.
 featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+featuredimage: /img/close-up-map-with-red-pins.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Internaționalizarea afacerilor
+  - Comerț extern
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+![Internaționalizarea afacerilor](/img/close-up-map-with-red-pins.jpg "Internaționalizarea afacerilor")
 
-## A little history
+Prin **internaționalizarea afacerilor** se înțelege demersul strategic pe care îl urmează unele întreprinderi pentru extinderea activității peste hotare prin export și prin deschiderea de sucursale pe piețele externe.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Ceea ce favorizează lărgirea orizonturilor firmelor locale spre spațiul internațional, pe lângă tendința generală în comerț de diminuare a granițelor, este facilitarea comunicării, evoluția căilor de transport, evoluția tehnologică și liberalizarea piețelor lumii. 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Factorul principal care a condus la intensificarea comercializării în spațiul internațional au fost schimbările care au avut loc în postbelic:
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+* cooperarea inter-statală
+* instituționalizarea relațiilor economice
+* eliminarea restricțiilor impuse de guvern cu privire la afacerile internaționale
+* eficientizarea comunicării și transportului
+* intensificarea concurenței la nivel global
+* tendința consumatorilor de a alege produse și servicii străine
 
-## What you need to know before trying
+### Situația României în UE și local
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+În 2017, valoarea investițiilor străine realizate de România în alte țări din UE a fost de 461,1 milioane de euro, fapt care plasează România pe ultimul loc din Europa. 
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Astfel, contribuția României, așa cum arată indicatorii Eurostat, reprezintă doar 0,3% din PIB-ul extern, pe când un vecin ca Ungaria atinge 131,2%.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Investițiile străine modeste ale României nu sunt rezultatul dezinteresului pentru comerțul extern.
+
+Întreprinzătorii acuză absența statului român din procesul internaționalizării. Printre așteptările antreprenorilor români se află dorința ca statul să se implice activ în promovarea afacerilor autohtone și dorința de a avea acces la informații despre piețele străine.
+
+Printre barierele interne de care se lovesc afaceriștii români se mai numără și lipsa unor mecanisme de susținere financiară prin fonduri europene sau prin implicarea băncilor. 
+
+
+
+
+
+### De ce să optezi pentru internaționalizarea afacerii tale?
+
+Poate piața internă pune presiuni asupra afacerii tale, poate ai observat o scădere a volumului vânzărilor, poate nu ești mulțumit de concurență sau poate doar vrei să îți extinzi afacerea, iar piața internă nu oferă loc de creștere. 
+
+În oricare situație te-ai găsi, internaționalizarea aduce oportunități nu doar companiilor multinaționale, ci și IMM-urilor.
+
+**Beneficiile aduse de internaționalizarea afacerii** sunt extinderea pieței, accesul la mai multe resurse și reducerea unor costuri.
+
+
+
+##### Etape de internaționalizare
+
+* **Prima etapă** de internaționalizare a unei afaceri este internaționalizarea procesului de comercializare - stabilirea unei relații de import/export cu țările vecine.
+* **A doua etapă** este instituționalizarea producției, adică cooperarea cu piața vizată în vederea multiplicării resurselor.
+* **A treia etapă** este internaționalizarea firmei, adică implantarea acesteia în străinătate.
