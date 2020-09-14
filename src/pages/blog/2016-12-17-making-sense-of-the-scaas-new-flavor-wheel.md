@@ -1,33 +1,130 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: "IMM-urile din România – Probleme și soluții "
+date: 2020-09-14T18:18:42.380Z
+description: "Situația întreprinderilor mici și mijlocii din România este una
+  destul de nesigură. 10% dintre firmele românești sunt în stare falimentară, în
+  timp ce 40% din totalul național și-a redus activitatea în ultimii ani. "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/carlos-muza-hpjsku2uysu-unsplash.jpg
 tags:
-  - flavor
-  - tasting
+  - IMM
+  - Carta Albă a IMM-urilor 2019
+  - Corporate
+  - Externalizarea serviciilor
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Statisticile unei afaceri](/img/carlos-muza-hpjsku2uysu-unsplash.jpg "Laptop cu statisticile unei afaceri")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Înainte să vorbim despre situația actuală a IMM-urilor din România, așa cum indică [](https://www.ceccarbusinessmagazine.ro/carta-alba-a-imm-urilor-din-romania-editia-a-xvii-a-a5133/)**Carta Albă a IMM-urilor**, ediția a XVII-a, hai să trecem în revistă informațiile de bază despre întreprinderile mici și mijlocii.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## Ce este un IMM?
 
-## What the updates mean to you
+Recomandarea nr. 361/2003 a Comisiei Comunităților Europene definește IMM-urile (Întreprinderi Micro, Mici și Mijlocii) ca întreprinderi care angajează mai puțin de 250 de persoane și care au o cifră de afaceri anuală netă de până la 50 de milioane de euro și/sau dețin active totale de până la 43 de milioane de euro.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+S-au stabilit niște parametri de încadrare (număr de angajați și cifră de afaceri) pentru a putea fi clasificate cele 3 tipuri de IMM-uri.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+
+* **Microîntreprinderi.** Întreprinderi care au sub 10 angajați și a căror cifră de afaceri anuală nu depășește 2 milioane de euro.
+* **Întreprinderi mici.** Întreprinderi care au sub 50 de angajați și a căror cifră de afaceri anuală nu depășește 10 milioane de euro.
+* **Întreprinderi mijlocii.** Întreprinderi care au sub 250 de angajați și a căror cifră de afaceri anuală nu depășește 50 de milioane de euro.
+
+
+
+Manualul utilizatorului publicat de Comisia Europeană menționează și faptul că parametrii mai sus menționați nu sunt singurii care afectează încadrarea unei întreprinderi.
+
+Afilierea și parteneriatul cu o întreprindere mare poate împiedica o afacere care respectă condițiile de încadrare în categoria microîntreprinderilor de la a beneficia de finanțare. 
+
+
+
+###  De ce contează încadrarea afacerii?
+
+![Fonduri europene](/img/guillaume-perigois-0nrkvdda2fw-unsplash.jpg "Steagul Uniunii Europene")
+
+Există 3 scheme de finanțare a IMM-urilor cu fonduri europene la care are acces afacerea ta atâta vreme cât se încadrează în cele 3 tipuri de IMM-uri descrise mai sus. 
+
+##### Cele 3 scheme de finanțare sunt reprezentate de:
+
+1. microgranturi pentru microîntreprinderi
+2. granturi pentru capital de lucru
+3. granturi pentru investiții productive
+
+
+
+În ciuda acestora, realitatea IMM-urilor românești este una sumbră. **În prezent, 70% se autofinanțează.**
+
+Dar asta nu este singura problemă de care se lovesc întreprinzătorii și managerii români. 
+
+
+
+Indiferent dacă vorbim despre cei care planifică să își deschidă o afacere, despre cei care abia și-au înființat una sau despre cei care au deja vechime, mediul de afaceri poate fi destul de neprietenos.
+
+
+
+### Ediția a XVII-a a *Cartei Albe a IMM-urilor din România*
+
+**Situația actuală.** „Carta Albă a IMM-urilor din România 2019” conține o analiză a mediului de afaceri românesc în 2019, bazată pe răspunsurile a 788 de întreprinzători și manageri. Din sondaj reiese faptul că, în ultimii ani, 53,37% dintre întreprinderile mici și mijlocii care au participat la studiu au funcționat la aceiași parametri, 26,01% au avut o evoluție ascendentă, iar 20,62% și-au restrâns volumul de activitate. 
+
+
+
+#### Obstacolele identificate din sondaj
+
+Cele mai mari dificultăți pe care le-au întâmpinat românii care au o întreprindere sunt:
+
+* (57,14%) angajarea, pregătirea și menținerea personalului
+* (49,19%) birocrația
+* (47,17%) inflația
+* (45,69%) concurența neloială
+* (42,86%) creșterea nivelului cheltuielilor salariale
+
+Acum că am vorbit despre problemele majore cu care se confruntă întreprinderile românești, ar fi cazul să ne gândim la soluții.
+
+
+
+## Ce asigură succesul unei întreprinderi?
+
+Una dintre întrebările la care au fost rugați să răspundă cei 788 de întreprinzători este *care sunt factorii care influențează rata de succes a unei firme*.
+
+Răspunsurile lor au fost:
+
+* (48,65%) angajați motivați și loiali
+* (47,17%) serviciile suport pentru managementul gradului de încărcare a angajaților
+* (35,18%) angajați calificați și pricepuți
+* (28,17%) relațiile de afaceri/partenerii de afaceri
+* (8,09%) oportunitățile pe care le oferă piața pentru produsele/serviciile firmei
+
+
+
+## Soluții pentru întreprinzători români
+
+![Succes în afaceri](/img/razvan-chisu-ua-agenjmi4-unsplash.jpg "Succes în afaceri")
+
+Conform statisticilor, 56,58% dintre cei intervievați își propun extinderea afacerii, în timp ce 24,93% vizează menținerea afacerii la dimensiunile actuale.
+
+În oricare categorie te-ai găsi, sunt mulți factori pe care trebuie să îi ai în vedere. Cu mult efort, poți reuși să gestionezi toate elementele care aduc succes afacerii tale, dar există o metodă prin care să îți ușurezi activitatea de management al afacerii.
+
+Ai auzit de serviciile corporate?
+
+
+
+## Ce sunt serviciile corporate?
+
+##  
+
+Acestea sunt metode de externalizare a serviciilor din cadrul unei companii, cum ar fi cele de contabilitate, consultanță, înființare firmă, audit ș.a.m.d. 
+
+#### De ce este externalizarea serviciilor benefică?
+
+Administratorii unei companii sunt presați de multe responsabilități - de la birocrație la HR. Dacă o parte dintre aceste responsabilități este atribuită „altcuiva”, atunci administratorii și-ar putea concentra eforturile și resursele pe dezvoltarea unui plan de extindere a afacerii.  
+
+
+
+#### Ce presupune un pachet de servicii corporate?
+
+* informare cu privire la legislația actuală
+* consiliere fiscală și financiară
+* contabilitate
+* marketing
+* resurse umane
