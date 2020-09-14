@@ -51,7 +51,7 @@ main:
 testimonials: []
 full_image: /img/carlos-muza-hpjsku2uysu-unsplash.jpg
 pricing:
-  heading: Pachete de servicii
+  heading: "Pachete de servicii "
   description: Pentru a ușura căutarea clienților în baza de servicii pe care le
     oferim, am pregătit 3 pachete de servicii în funcție de proiectul pe care
     vi-l propuneți să îl îndepliniți.
