@@ -1,42 +1,33 @@
 ---
-heading: Great coffee with a conscience
+heading: Serviciile AxACont
 path: /products
 templateKey: product-page
-title: Why our coffee?
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: De ce AxACont?
+image: /img/hector-j-rivas-1fxmet2u5du-unsplash.jpg
+description: "Înțelegem că timpul este dintre cele mai valoroase resurse ale
+  unei afaceri. Așa că am pus la un loc o gamă largă de servicii suport, ca tu
+  să poți colabora cu o singură firmă și să te poți bucura de un pachet întreg
+  de soluții. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/corporate.png
+      text: Întocmirea documentelor contabile, soluționarea situațiilor inedite,
+        interpretarea corectă și eficientă a legii, înregistrarea documentelor
+        și depunerea acestora la instituțiile competente sunt câteva dintre
+        activitățile pe care le îndeplinim.
+    - image: /img/growth.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Prin servicii de consultanță ne gândim la consultanță privind legislația
+        financiar-contabilă și achiziția de bunuri, analiza cash-flow-ului și
+        întocmirea bugetului de venituri și cheltuieli.
+    - image: /img/light-bulb.png
+      text: Te ajutăm să vezi din timp riscurile la care este supusă afacerea ta, în
+        urma analizei riguroase pe care o efectuăm asupra informațiilor
+        contabile.
+    - image: /img/time-is-money.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Contabilitatea, auditul, resursele umane, consultanța și înființarea de
+        firme sunt elementele care constituie serviciile corporate AxACont. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,54 +35,52 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Progres și stabilitate
+  description: Pe parcursul colaborării noastre, veți fi întotdeauna informat.
+    Succesul consilierii oferite de noi rezidă în strânsa comunicare pe care o
+    stabilim cu clienții noștri.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Soluții pentru afaceri
+    image: /img/cytonn-photography-n95vmlxqm2i-unsplash.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Consultanță
+    image: /img/drew-beamer-se7vvkzyxti-unsplash.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    alt: Resurse umane
+    image: /img/scott-graham-5fnmwej4taa-unsplash.jpg
+testimonials: []
+full_image: /img/carlos-muza-hpjsku2uysu-unsplash.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Pachete de servicii
+  description: Pentru a ușura căutarea clienților în baza de servicii pe care le
+    oferim, am pregătit 3 pachete de servicii în funcție de proiectul pe care
+    vi-l propuneți să îl îndepliniți.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect dacă ești la începutul drumului tău de antreprenor.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Tarife preferențiale pentru înființarea societății
+        - Consultanță pe tot parcursul înființării
+        - Consultanță în vederea fiscalității din România
+        - Înștiințare cu privire la obligațiile pentru contabilitate
+        - Înștiințare cu privira la obligațiile principale ca administrator
+        - Servicii de contabilitate cu tarife preferențiale
+      plan: Juniori în afaceri
       price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+    - description: Servicii de marketing pentru afacerea ta
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
+        - Marketing
+        - Servicii corporate
+        - Consultanță
+      plan: Partenerul meu în afaceri
       price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Pachet complet de servicii
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - Marketing complet
+        - Asistență online a unui consilier pregătit în domeniu
+        - Situația contabilă reală a societății
+        - Contabilitate
+        - Resurse umane
+        - Consultanță fiscală
+      plan: Dezvoltarea businessului
+      price: "80"
 ---
