@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'AxACont România - Externalizarea serviciilor și Soluții pentru Afaceri | Blog AxACont',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Structura creată de AxACont România, deservește real necesitățile companiilor care doresc să își externalize cu încredere serviciile.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
