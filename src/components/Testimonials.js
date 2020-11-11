@@ -7,8 +7,7 @@ const Testimonials = ({ testimonials }) => (
     {testimonials.map((testimonial) => (
       <article key={v4()} className="message">
         <div className="message-body">
-          {testimonial.quote}
-          <br />
+          <p style={{ marginBottom: '10px' }}>{testimonial.quote}</p>
           <cite> – {testimonial.author}</cite>
         </div>
       </article>

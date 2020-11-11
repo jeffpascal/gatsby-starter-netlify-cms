@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Testimonials from '../components/Testimonials.js';
 
 export const IndexPageTemplate = ({
   image,
@@ -14,6 +14,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  testimonials
 }) => (
   <div>
     <div
@@ -86,7 +87,6 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
@@ -105,6 +105,12 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
+                <div>
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Testimoniale
+                  </h3>
+                  <Testimonials testimonials={testimonials} />
+                </div>
               </div>
             </div>
           </div>
@@ -121,12 +127,11 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+  testimonials: PropTypes.array,
 }
 
 const IndexPage = ({ data }) => {
+  console.log(data)
   const { frontmatter } = data.markdownRemark
 
   return (
@@ -139,6 +144,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        testimonials={frontmatter.testimonials}
       />
     </Layout>
   )
@@ -168,22 +174,16 @@ export const pageQuery = graphql`
         }
         heading
         subheading
+        testimonials {
+          author
+          quote
+        }
         mainpitch {
           title
           description
         }
         description
         intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
           heading
           description
         }
