@@ -36,7 +36,7 @@ const Navbar = class extends React.Component {
         aria-label='main-navigation'
       >
         <div className='container'>
-          <div className='navbar-brand'>
+          <div style={{ alignItems: 'center' }} className='navbar-brand'>
             <Link to='/' className='navbar-item' title='Logo'>
               <img src={logo} alt='Kaldi' style={{ width: '130px', height: 'auto', maxHeight: '500px' }} />
             </Link>
