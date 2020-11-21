@@ -23,10 +23,6 @@ Aceste articole sunt importante. Gândirea cu care pornești în goana după o a
 
 ![Antreprenor](/img/13.jpg "Antreprenor")
 
-
-
-
-
 Pentru asta îți aducem noi un ghid complet pentru a-ți pune afacerea în picioare. Am inclus sfaturile pe care le dăm clienților noștri, linkuri utile și un document descărcabil în care găsești fiecare pas din acest ghid, ca să nu trebuiască să revii la acest articol. 
 
 Toate acestea fiind spuse, să trecem la cele 4 mari aspecte ale antreprenoriatului.
@@ -36,8 +32,6 @@ Toate acestea fiind spuse, să trecem la cele 4 mari aspecte ale antreprenoriatu
 ## Înființarea societății
 
 Evident că primul lucru pe care trebuie să îl faci este să depui actele pentru înscrierea firmei la Registrul Comerțului.
-
-
 
 Doar că, înainte de a ajunge în fața ghișeului, ar trebui să decizi ce tip de formă juridică ți se potrivește.
 
@@ -59,7 +53,7 @@ Cum ar fi: contractul de închiriere (sau de subînchiriere), contractul de como
 
 ### Copia Cărții de Identitate a Asociaților
 
-### Declarație pe Proprie Răspundere 
+### Declarație pe Proprie Răspundere
 
 Declarația-tip, care se găsește pe site-ul ONRC, trebuie să fie semnată de asociați sau de administratori.
 
@@ -67,19 +61,13 @@ Acest document are rolul de a garanta statului că asociații respectă condiți
 
 ##### Altele
 
-#####  
-
 * Cererea de înregistrare
 * Anexa 1 privind înregistrarea fiscală
 * Dovada privind efectuarea vărsămintelor aporturilor subscrise de asociați
 * Actele privind beneficiarul real al societății
 * Dovada plății tarifului legal pentru publicarea în Monitorul Oficial.
 
-
-
 Noi, cei de la AxACont România, știm cum să preluăm din munca pe care o depune un antreprenor. Discuțiile pe care le avem cu clienții noștri îi ajută să ia o decizie informată în privința aspectelor mai complicate, cum este găsirea formei juridice mulate pe posibilitățile lor financiare sau identificarea codului CAEN. 
-
-
 
 Am avut ocazia de a îndruma și cetățeni străini care s-au decis să își internaționalizeze afacerea în România cu ajutorul nostru. 
 
@@ -103,17 +91,15 @@ Scopul este de a stabili care îi sunt obligațiile fiscale, cum ar fi impozitul
 
 În cazul în care te decizi să ții pe cont propriu evidența contabilă, acestea sunt documentele necesare:
 
-#####  1. Registru-Jurnal de Încasări și Plăți 
+##### 1. Registru-Jurnal de Încasări și Plăți
 
 În acest document se trec veniturile și cheltuielile: 
 
 * suma încasărilor
 * aporturile în numerar sau în contul bancar al societății aduse ori la începutul activității, ori pe parcursul acesteia;
 * alte sume încasate (împrumuturi, despăgubiri, fonduri nerambursabile, subvenții, donații)
-*  orice cheltuială efectuată în timpul activității firmei în urma căreia au fost realizate venituri
+* orice cheltuială efectuată în timpul activității firmei în urma căreia au fost realizate venituri
 * restituirea aporturilor în numerar sau în contul bancar
-
-
 
 Este nevoie să păstrezi împreună cu registrul de încasări și plăți orice tip de document justificativ (facturi, chitanțe, ș.a.m.d.).
 
@@ -147,7 +133,7 @@ Aici este trecut venitul net al firmei. Se calculează 10% din el, iar rezultatu
 
 ![Documente contabile](/img/12.jpg "Documente contabile")
 
-#### Pentru PFA pe normă de venit 
+#### Pentru PFA pe normă de venit
 
 În acest caz, tot ce trebuie să faci este să completezi ultimele două documente de la punctul anterior (Registrul de Evidență Fiscală și Declarația Unică).
 
@@ -159,15 +145,15 @@ Societățile cu răspundere limitată sunt obligate să angajeze un contabil me
 
 Ca să îți poți face o bună imagine de ansamblu despre departamentul contabil, ar trebui să fii informat despre tipurile de contabil.
 
-###### Primul tip este contabilul independent.
+#### Primul tip este contabilul independent.
 
 El este membrul CECCAR care a preferat să își deschidă propria firmă de contabilitate.
 
-###### Al doilea tip este contabilul angajat.
+#### Al doilea tip este contabilul angajat.
 
 Și contabilul angajat are certificare de expert contabil (ca toate tipurile de contabil pe care îi prezint acum), dar el este angajat direct de firma pentru care lucrează. Acest tip se recomandă companiilor care au mai mulți angajați și care conduc o activitate complexă. 
 
-###### Al treilea tip este firma de contabilitate. 
+#### Al treilea tip este firma de contabilitate.
 
 În acest caz, nu lucrează un singur contabil. O echipă întreagă se ocupă de contabilitatea afacerii tale. Externalizarea contabilității este eficientă atât pentru companiile mari cât și pentru cele mici.
 
@@ -201,19 +187,13 @@ Spre exemplu, din cele, să zicem, 18 trăsături ale candidatului ideal pe care
 
 În final, ce lei vei cere candidaților? CV? Scrisoare de recomandare? Un formular cu întrebări pe care le consideri importante? Sau poate pentru o evaluare aprofundată, le vei da o serie de task-uri pe care să le rezolve?
 
-
-
 Orice variantă este bună, atâta vreme cât reușește să culeagă informațiile relevante despre potențialul angajat. 
-
-
 
 Ai publicat anunțuri, ai cerut recomandări etc.
 
 Iar acum ai început să primești solicitări. Începi evaluarea, răsfoiești CV-uri, iei interviuri. 
 
 Amintește-ți ca în tot acest timp să fii imparțial. 
-
-
 
 Cât despre interviuri. **Uite câteva lucruri de care ar trebui să ții cont.**
 
@@ -224,13 +204,9 @@ Cât despre interviuri. **Uite câteva lucruri de care ar trebui să ții cont.*
 
 După ce te hotărăști pe cine angajezi, te sfătuim să îi anunți pe cei „nenorocoși” de decizia pe care ai luat-o. Lasă loc pentru o conversație viitoare.    
 
-
-
 Cât despre viitorul angajat, începe prin a-i trimite oferta de angajare. 
 
 **O ofertă de angajare** conține, cel mai adesea, funcția, salariul pe lună, perioada de training/probă, sistemul de bonusare, responsabilitățile postului (da, din nou), programul de lucru și orice alt beneficiu (cum ar fi asigurarea medicală).
-
-
 
 Dacă candidatul acceptă oferta, trebuie să completezi un **contract de muncă**. Clauzele care trebuie să apară obligatoriu în contract sunt:
 
@@ -252,14 +228,10 @@ Dacă candidatul acceptă oferta, trebuie să completezi un **contract de muncă
 
 În funcție de industria de care aparține afacerea ta, ai câteva opțiuni în ceea ce privește trainingul.
 
-
-
 Trainingul definește două tipuri de activități:
 
 1. Introducerea noului angajat în mediul de lucru specific firmei și informarea lui cu privire la procedurile și politica internă.
 2. Dezvoltarea profesională a personalului prin cursuri și activități de formare.
-
-
 
 În primul caz, chiar tu ai putea să prezinți noului angajat sistemul de funcționare al firmei tale. Dar, dacă programul nu îți permite să acorzi timp acestui aspect, ai putea ruga un angajat mai vechi să preia responsabilitatea sau ai putea putea angaja o firmă de HR.
 
@@ -270,8 +242,6 @@ Trainingul definește două tipuri de activități:
 Aici consider că este nevoie să menționăm un detaliu foarte important. Oamenii cu care lucrezi și pe care îi angajezi nu îți sunt doar resurse utilizabile, ci îți sunt echipă. 
 
 Cel mai bun lucru pe care îl poți face pentru afacerea ta este să strângi o echipă de încredere, să ceri ajutorul oricând este cazul și să fii deschis la comunicare. 
-
-
 
 ### Salarizare și documente conexe
 
@@ -291,15 +261,9 @@ Desigur că publicitatea se poate face și „în stradă” - doar vorbind desp
 
 Poți avea un site de prezentare, platforme de social media și poți fi prezent în comunitatea specifică industriei tale, iar acestea sunt unele elemente-cheie ale succesului. 
 
-
-
 ![Strategie de marketing](/img/4.jpg "Marketing")
 
-
-
 Acum, o să te rugăm să ne scuzi pentru auto-promovarea nerușinată pe care urmează să o facem, dar, în toate domeniile despre care am scris mai sus, apelarea la experți te va ușura de responsabilități, îți va economisi timp și, în unele cazuri, te va scăpa de costuri suplimentare. 
-
-
 
 Sfaturile pe care ți le-am dat vin pentru a te susține în cazul în care ai vrea să te ocupi de unul singur de toate acestea, dar sunt și pamflete informative care te lasă să știi cât de dificil sau simplu poate fi ceea ce îți propui.
 
