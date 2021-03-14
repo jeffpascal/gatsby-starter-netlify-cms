@@ -14,7 +14,7 @@ O să pornim de la un citat al lui Paulo Coelho:
 
 > „Viața este uneori foarte zgârcită: trec zile, săptămâni, luni și ani fără să simți nimic nou. Totuși, odată ce se deschide o ușă, o adevărată avalanșă pătrunde prin spațiul deschis. Acum nu ai nimic, iar în clipa următoare ai mai mult decât poți accepta.”
 
-![ce inseamna sa fii econom](/img/6e.jpg "ce inseamna sa fii econom")
+![econom](/img/6e.jpg "econom")
 
 ## Ce înseamnă să fii econom?
 
@@ -24,7 +24,7 @@ A fi econom înseamnă că faci mici schimbări în felul în care îți gestion
 
 A economisi nu trebuie să te oprească din ceea ce vrei să faci.
 
-Dimpotrivă, atenția sporită asupra finanțelor, specifică unei persoane econome, îți permite să îți revizuiești atitudinea asupra cheltuielilor, atât personale, cât și ale companiei tale. 
+Dimpotrivă, atenția sporită asupra finanțelor, specifică unei persoane econome, îți permite să îți revizuiești atitudinea asupra cheltuielilor, atât celor personale, cât și ale companiei tale. 
 
 A fi econom presupune, pe de o parte, să îți limitezi într-o măsură cheltuielile și, pe de altă parte, să renunți la a cumpăra anumite lucruri de care - dacă te gândești mai bine - nu ai nevoie.
 
@@ -38,13 +38,13 @@ A fi econom presupune, pe de o parte, să îți limitezi într-o măsură cheltu
 
 O persoană zgârcită caută întotdeauna să achiziționeze cel mai ieftin articol, într-un timp cât mai scurt, indiferent de calitatea produsului sau a serviciului.
 
-Andrei Pleșu spunea
+Andrei Pleșu spunea:
 
 > „Fericirea ca obsesie e o sursă sigură de nefericire.”
 
 Pornind de la această afirmație, putem sesiza efectele negative ale unei atitudini zgârcite.
 
-Când ești antreprenor, trebuie să ai în vedere, încă de la început, viitoarele achiziții și cheltuieli pentru ca scopul firmei tale să se îndeplinească. Însă, când ești zgârcit, tinzi să afectezi negativ relațiile cu celelalte persoanedin jurul tău și să creezi conflicte, chiar și pe termen lung. 
+Când ești antreprenor, trebuie să ai în vedere, încă de la început, viitoarele achiziții și cheltuieli pentru ca scopul firmei tale să se îndeplinească. Însă, când ești zgârcit, tinzi să afectezi negativ relațiile cu celelalte persoane din jurul tău și să creezi conflicte, chiar și pe termen lung. 
 
 **Fun fact.** Doar 2 din 10 români se mențin la curent cu subiectele financiar-contabile, pe când 4 din 10 nu sunt deloc interesați de ele. 
 
@@ -81,7 +81,7 @@ Iată o listă de 5 atribuții ce se potrivesc unei persoane econome:
 * Cercetezi o gamă mai largă de opțiuni pentru produsul pe care dorești să îl achiziționezi.
 * Optimizezi costul și calitatea unui articol și te asiguri că acesta se încadrează în bugetul stabilit de tine.
 
-Însă, economisirea nu înseamnă să reduci la un nivel înalt achizițiile. Este vorba despre a cheltui cu atenție sporită către lucrurile care te ajută să îți clădești viitorul. 
+Însă, economisirea nu înseamnă să reduci la un nivel înalt achizițiile. Este vorba despre a cheltui cu atenție sporită pentru lucrurile care te ajută să îți clădești viitorul. 
 
 Astfel, atunci când te decizi economisești, trebuie să îți placă cu adevărat să îți petreci timpul realizând acțiuni pentru a economisi bani și să apreciezi timpul câștigat din urma acestor activități, investind în ceea ce contează pentru tine și pentru viitorul tău.
 
